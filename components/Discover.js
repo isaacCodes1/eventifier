@@ -1,0 +1,57 @@
+const items = [
+{
+    date: "JAN 13",
+    title: "The Road to jobs and  internships: Starting with Lin...",
+    type: "Online",
+    time: "6 PM - 7:30 PM",
+    code: "INR 49 .",
+    interested: "21 interested",
+    image: "/public/images/linkedn.png",
+},
+{
+    date: "NOV 29",
+    title: "Online Zumba Dance Fitness Class over Zoom",
+    type: "Online",
+    time: "7 PM - 8 PM",
+    code: "CAD 7",
+    image: "/public/images/sport.png",
+  },
+  {
+    date: "DEC 12",
+    title: "Easy book folding: Christmas edition",
+    type: "Online",
+    time: "4 PM - 5:30 PM",
+    code: "FREE .",
+    interested: "10 interested",
+    image: "/public/images/Atrs.png",
+  },
+  {
+    date: "DEC 14",
+    title: "Voices from the Rome Synod: An evening with Austen Iverei...",
+    type: "Online",
+    time: "1 PM - 2 PM",
+    code: "FREE .",
+    interested: "37 interested",
+    image: "/public/images/church.png",
+  },
+  {
+    date: "NOV 29",
+    title: "HackerX-Zurich(Full-Stack)  11/29(Virtual)",
+    type: "Online",
+    time: "11:30 AM - 1:30 PM",
+    code: "USD 0-50 .",
+    interested: "16 interested",
+    image: "/public/images/hacker.png",
+  },
+  {
+    date: "DEC 07",
+    title: "FRIENDS OF THE METAVERSE: Season of innovation 2023",
+    type: "Online",
+    time: "10:30 AM - 5 PM",
+    code: "USD 0-150 .",
+    interested: "10 interested",
+    image: "/public/images/tech&innovation.png",
+  },
+];
+
+export default items

@@ -10,7 +10,9 @@ export default {
     extend: {
       colors: {
         "primary": "#2B293D",
-        "secondary": "#FFE047"
+        "secondary": "#FFE047",
+        purp: "rgba(69, 57, 180, 1)",
+
       }
     },
   },

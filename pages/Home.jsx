@@ -1,8 +1,9 @@
-import React from 'react'
-
+import DiscoverList from "../components/DiscoverList"
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <DiscoverList />
+    </div>
   )
 }
 

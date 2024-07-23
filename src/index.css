@@ -29,3 +29,9 @@
     position: absolute;
     bottom: -20px;
 }
+
+button:hover{
+    background-color: #000;
+    color: #fff;
+    transition: 1s ease-in-out;
+}
